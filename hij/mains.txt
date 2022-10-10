@@ -1,0 +1,14 @@
+vodka
+campari
+red wine
+white wine
+cointreau
+light rum
+dark rum
+rye whisky
+tequila
+bourbon
+scotch
+beer
+vanilja rum
+gin
