@@ -283,4 +283,4 @@ if(msg.content === '+rr') {
     }
 })
 
-    client.login('OTE1OTAwOTkxMzg2MzIwOTQ2.YaiVRA.PUfBkzwueXFWaWTxHu9PjDCBm98')
+    client.login('token')
